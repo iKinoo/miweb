@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-chanchito feliz
-=======
-Chanchto feliz dice HOLA MUNDO
->>>>>>> ramab
+Chanchto feliz
